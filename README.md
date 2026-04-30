@@ -6,7 +6,9 @@ Super simple beacon scripts that call home.
 Although this is achievable in so many ways having a list of methods comes in handy.
 
 # TODO
+
 [ ] - Add Python script
+
 [ ] - Add C program
 
 ## Scripts
