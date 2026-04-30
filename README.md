@@ -28,5 +28,5 @@ php -S localhost:8000
 
 or any webservers that support php will do just fine (Nginx, Apache, etc...)
 
-[PHP script](server/ip.php)
+- [PHP script](server/ip.php)
 
