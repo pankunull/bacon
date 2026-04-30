@@ -9,7 +9,7 @@ Although this is achievable in so many ways having a list of methods comes in ha
 # TODO
 
 - [x] Add Python script
-- [ ] Add C program
+- [x] Add C program
 
 
 ## Scripts
