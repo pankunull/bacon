@@ -3,12 +3,12 @@
 
 Super simple beacon scripts that call home.
 
-### Scripts
+## Scripts
 
 [Bash script](src/bacon.sh)
 
 
-### Server side
+## Server side
 
 Just for testing we can use:
 
