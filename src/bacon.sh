@@ -9,9 +9,12 @@ AGENT="$1"
 URL="$2"
 DELAY="$3"
 
+USER="user"
+PASS="password"
+
 while true; do
 	printf "Sending beacon [%s] " "$(date)"
-	if curl -s -k -A "$AGENT" -- "$URL" 1>/dev/null; then
+	if curl -s -k -A -u "$USER:$PASS" "$AGENT" -- "$URL" 1>/dev/null 2>/dev/null; then
 		printf "sent!\r"
 	else
 		printf "error!\r"

@@ -16,6 +16,7 @@ Although this is achievable in so many ways having a list of methods comes in ha
 
 - [Bash script](src/bacon.sh)
 - [Python script](src/bacon.py)
+- [C](src/bacon.c)
 
 
 ## Server side
